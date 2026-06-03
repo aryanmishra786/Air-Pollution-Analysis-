@@ -1,0 +1,268 @@
+[
+  {
+    "city_state": "Seattle, Washington",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 3,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Bogota",
+    "country": "Colombia",
+    "region": "Americas",
+    "aqi": 11,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Vancouver, British Columbia",
+    "country": "Canada",
+    "region": "Americas",
+    "aqi": 13,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Kyiv",
+    "country": "Ukraine",
+    "region": "Europe",
+    "aqi": 16,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Portland, Oregon",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 17,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Melbourne, Victoria",
+    "country": "Australia",
+    "region": "Oceania",
+    "aqi": 18,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "San Francisco, California",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 18,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Asia",
+    "aqi": 19,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Singapore",
+    "country": "Singapore",
+    "region": "Asia",
+    "aqi": 22,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Auckland",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "aqi": 26,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Houston, Texas",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 26,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Krasnoyarsk",
+    "country": "Russia",
+    "region": "Europe",
+    "aqi": 28,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Helsinki",
+    "country": "Finland",
+    "region": "Europe",
+    "aqi": 28,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Sofia",
+    "country": "Bulgaria",
+    "region": "Europe",
+    "aqi": 30,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "New York City, New York",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 31,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Skopje",
+    "country": "North Macedonia",
+    "region": "Europe",
+    "aqi": 31,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Salt Lake City, Utah",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 32,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Baku",
+    "country": "Azerbaijan",
+    "region": "Europe",
+    "aqi": 33,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Stockholm",
+    "country": "Sweden",
+    "region": "Europe",
+    "aqi": 33,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Canberra",
+    "country": "Australia",
+    "region": "Oceania",
+    "aqi": 35,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Sydney, New South Wales",
+    "country": "Australia",
+    "region": "Oceania",
+    "aqi": 36,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Denver, Colorado",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 37,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Kuching, Sarawak",
+    "country": "Malaysia",
+    "region": "Asia",
+    "aqi": 38,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Copenhagen",
+    "country": "Denmark",
+    "region": "Europe",
+    "aqi": 39,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Bucharest",
+    "country": "Romania",
+    "region": "Europe",
+    "aqi": 39,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Montreal, Quebec",
+    "country": "Canada",
+    "region": "Americas",
+    "aqi": 40,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Washington, D.C.",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 44,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Vienna",
+    "country": "Austria",
+    "region": "Europe",
+    "aqi": 46,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Bishkek",
+    "country": "Kyrgyzstan",
+    "region": "Asia",
+    "aqi": 47,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Pristina",
+    "country": "Kosovo",
+    "region": "Europe",
+    "aqi": 49,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "aqi": 50,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Athens",
+    "country": "Greece",
+    "region": "Europe",
+    "aqi": 50,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Toronto, Ontario",
+    "country": "Canada",
+    "region": "Americas",
+    "aqi": 50,
+    "condition": "Healthy"
+  },
+  {
+    "city_state": "Moscow",
+    "country": "Russia",
+    "region": "Europe",
+    "aqi": 51,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Bern",
+    "country": "Switzerland",
+    "region": "Europe",
+    "aqi": 52,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "region": "Asia",
+    "aqi": 52,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Los Angeles, California",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 52,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Budapest",
+    "country": "Hungary",
+    "region": "Europe",
+    "aqi": 53,
+    "condition": "Moderate"
+  }
+]

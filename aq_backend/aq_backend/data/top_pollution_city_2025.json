@@ -1,0 +1,562 @@
+[
+  {
+    "city_state": "Riyadh",
+    "country": "Saudi Arabia",
+    "region": "Asia",
+    "aqi": 356,
+    "condition": "Severe"
+  },
+  {
+    "city_state": "Kuwait City",
+    "country": "Kuwait",
+    "region": "Asia",
+    "aqi": 255,
+    "condition": "Critical"
+  },
+  {
+    "city_state": "Beijing",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 170,
+    "condition": "Dangerous"
+  },
+  {
+    "city_state": "Hanoi",
+    "country": "Vietnam",
+    "region": "Asia",
+    "aqi": 154,
+    "condition": "Dangerous"
+  },
+  {
+    "city_state": "Jakarta",
+    "country": "Indonesia",
+    "region": "Asia",
+    "aqi": 143,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "New Delhi",
+    "country": "India",
+    "region": "Asia",
+    "aqi": 142,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Manila",
+    "country": "Philippines",
+    "region": "Asia",
+    "aqi": 134,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Wuhan",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 127,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Manama",
+    "country": "Bahrain",
+    "region": "Asia",
+    "aqi": 119,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Dhaka",
+    "country": "Bangladesh",
+    "region": "Asia",
+    "aqi": 115,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Milan",
+    "country": "Italy",
+    "region": "Europe",
+    "aqi": 115,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Shanghai",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 115,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Kinshasa",
+    "country": "Congo",
+    "region": "Africa",
+    "aqi": 110,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Seoul",
+    "country": "South Korea",
+    "region": "Asia",
+    "aqi": 105,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Chiang Mai",
+    "country": "Thailand",
+    "region": "Asia",
+    "aqi": 104,
+    "condition": "Unhealthy"
+  },
+  {
+    "city_state": "Karachi",
+    "country": "Pakistan",
+    "region": "Asia",
+    "aqi": 97,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Chengdu",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 96,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Baghdad",
+    "country": "Iraq",
+    "region": "Asia",
+    "aqi": 94,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Lahore",
+    "country": "Pakistan",
+    "region": "Asia",
+    "aqi": 94,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Bangkok",
+    "country": "Thailand",
+    "region": "Asia",
+    "aqi": 93,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Cairo",
+    "country": "Egypt",
+    "region": "Africa",
+    "aqi": 91,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Tel Aviv",
+    "country": "Israel",
+    "region": "Asia",
+    "aqi": 91,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Incheon",
+    "country": "South Korea",
+    "region": "Asia",
+    "aqi": 90,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Dubai",
+    "country": "United Arab Emirates",
+    "region": "Asia",
+    "aqi": 90,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Medan, North Sumatra",
+    "country": "Indonesia",
+    "region": "Asia",
+    "aqi": 89,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "London, England",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "aqi": 88,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Kathmandu",
+    "country": "Nepal",
+    "region": "Asia",
+    "aqi": 86,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "aqi": 86,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Chongqing",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 84,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Busan",
+    "country": "South Korea",
+    "region": "Asia",
+    "aqi": 82,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Munich",
+    "country": "Germany",
+    "region": "Europe",
+    "aqi": 81,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Jerusalem",
+    "country": "Israel",
+    "region": "Asia",
+    "aqi": 79,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Kolkata",
+    "country": "India",
+    "region": "Asia",
+    "aqi": 79,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Hangzhou",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 79,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Almaty",
+    "country": "Kazakhstan",
+    "region": "Europe",
+    "aqi": 78,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Addis Adaba",
+    "country": "Ethiopia",
+    "region": "Africa",
+    "aqi": 77,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Rotterdam",
+    "country": "Netherlands",
+    "region": "Europe",
+    "aqi": 75,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Ulaanbaatar",
+    "country": "Mongolia",
+    "region": "Asia",
+    "aqi": 75,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Taipei",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 73,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Belgrade",
+    "country": "Serbia",
+    "region": "Europe",
+    "aqi": 73,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Wroclaw",
+    "country": "Poland",
+    "region": "Europe",
+    "aqi": 72,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Mumbai",
+    "country": "India",
+    "region": "Asia",
+    "aqi": 72,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Batam, Riau Islands",
+    "country": "Indonesia",
+    "region": "Asia",
+    "aqi": 71,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Guangzhou",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 71,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Birmingham, England",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "aqi": 70,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Phnom Penh",
+    "country": "Cambodia",
+    "region": "Asia",
+    "aqi": 70,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Algiers",
+    "country": "Algeria",
+    "region": "Africa",
+    "aqi": 69,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Zagreb",
+    "country": "Croatia",
+    "region": "Europe",
+    "aqi": 69,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Osaka",
+    "country": "Japan",
+    "region": "Asia",
+    "aqi": 68,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Doha",
+    "country": "Qatar",
+    "region": "Asia",
+    "aqi": 67,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Brussels",
+    "country": "Belgium",
+    "region": "Europe",
+    "aqi": 66,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Johannesburg",
+    "country": "South Africa",
+    "region": "Africa",
+    "aqi": 66,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Accra",
+    "country": "Ghana",
+    "region": "Africa",
+    "aqi": 66,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "aqi": 66,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Tehran",
+    "country": "Iran",
+    "region": "Asia",
+    "aqi": 64,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Ljubljana",
+    "country": "Slovenia",
+    "region": "Europe",
+    "aqi": 64,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Kobe",
+    "country": "Japan",
+    "region": "Asia",
+    "aqi": 64,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Hong Kong",
+    "country": "Hong Kong SAR",
+    "region": "Asia",
+    "aqi": 63,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Shenzhen",
+    "country": "China",
+    "region": "Asia",
+    "aqi": 62,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Dublin",
+    "country": "Ireland",
+    "region": "Europe",
+    "aqi": 62,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Tokyo",
+    "country": "Japan",
+    "region": "Asia",
+    "aqi": 62,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Amsterdam",
+    "country": "Netherlands",
+    "region": "Europe",
+    "aqi": 60,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Warsaw",
+    "country": "Poland",
+    "region": "Europe",
+    "aqi": 60,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Kyoto",
+    "country": "Japan",
+    "region": "Asia",
+    "aqi": 60,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Detroit, Michigan",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 60,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Minneapolis, Minnesota",
+    "country": "United States",
+    "region": "Americas",
+    "aqi": 60,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Santiago",
+    "country": "Chile",
+    "region": "Americas",
+    "aqi": 59,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Bratislava",
+    "country": "Slovakia",
+    "region": "Europe",
+    "aqi": 58,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Krakow",
+    "country": "Poland",
+    "region": "Europe",
+    "aqi": 58,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Istanbul",
+    "country": "Turkey",
+    "region": "Europe",
+    "aqi": 58,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "aqi": 58,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Tashkent",
+    "country": "Uzbekistan",
+    "region": "Asia",
+    "aqi": 58,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Kampala",
+    "country": "Uganda",
+    "region": "Africa",
+    "aqi": 57,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Lima",
+    "country": "Peru",
+    "region": "Americas",
+    "aqi": 57,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Yangon",
+    "country": "Myanmar",
+    "region": "Asia",
+    "aqi": 56,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Lisboa",
+    "country": "Portugal",
+    "region": "Europe",
+    "aqi": 56,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Rome",
+    "country": "Italy",
+    "region": "Europe",
+    "aqi": 56,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Prague",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "aqi": 56,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Nairobi",
+    "country": "Kenya",
+    "region": "Africa",
+    "aqi": 56,
+    "condition": "Moderate"
+  },
+  {
+    "city_state": "Dakar",
+    "country": "Senegal",
+    "region": "Africa",
+    "aqi": 55,
+    "condition": "Moderate"
+  }
+]

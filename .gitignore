@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+ml_service/venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Node
+node_modules/
+
+# Data and models (keep out of git if large)
+*.csv
+*.h5
+*.pkl
+*.pt
